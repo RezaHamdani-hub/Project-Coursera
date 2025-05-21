@@ -1,2 +1,2 @@
 # Project-Coursera
-Belajar
+Basic function in GitHub
